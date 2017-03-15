@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Temp\PopularMoviesApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Temp\PopularMoviesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_334d1744cbe3524dd50b44954fada33ea2824166\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Temp\PopularMoviesApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f875cb2cd6b19bff72b80e947c931942954602c">
+        <dex dex="C:\Temp\PopularMoviesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_25617f04297dcbdfaac45fd98cedf27987b906aa\classes.dex" />
+    </item>
+
+</items>
