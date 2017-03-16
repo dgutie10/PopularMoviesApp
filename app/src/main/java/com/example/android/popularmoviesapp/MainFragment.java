@@ -146,6 +146,8 @@ public class MainFragment extends Fragment {
         }
 
         private ArrayList<Movies> getMoviesFromJson(String jsonString) throws JSONException{
+            if (jsonString == null) return  null;
+
             final String MOVIE_RESULTS = "results";
             final String MOVIE_ID = "id";
             final String MOVIE_TITLE = "original_title";
